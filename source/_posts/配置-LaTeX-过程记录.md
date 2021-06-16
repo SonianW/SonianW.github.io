@@ -8,7 +8,9 @@ date: 2020-11-21 23:03:03
 password:
 summary:
 tags:
+  - LaTex
 categories:
+  - 踩坑记录
 ---
 # 配置 LaTeX 过(cai)程(keng)记录
 ## 1. 下载安装 TeX Live  

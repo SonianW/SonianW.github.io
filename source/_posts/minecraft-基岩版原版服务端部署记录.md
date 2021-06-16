@@ -8,7 +8,10 @@ date: 2021-06-14 14:43:34
 password:
 summary:
 tags:
+    - Minecraft
+    - 游戏
 categories:
+    - 踩坑记录
 ---
 # minecraft 基岩版原版服务端部署记录  
 ## 1. 租一个 vps  
